@@ -1,4 +1,4 @@
-# 🧾 Real-Time Stock Market Analytics Pipeline using AWS Kinesis, Lambda, DynamoDB, S3, SNS, Glue, and Athena
+# 📈 Real-Time Stock Market Analytics Pipeline using AWS Kinesis, Lambda, DynamoDB, S3, SNS, Glue, and Athena
 
 A **serverless, fully automated real-time data processing pipeline** that streams stock market data, processes it in AWS Lambda, stores insights in DynamoDB, archives raw events in S3, triggers alerts via SNS, and enables historical analysis using Athena.
 
